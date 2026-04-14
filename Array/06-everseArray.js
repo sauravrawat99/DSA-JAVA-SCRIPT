@@ -1,8 +1,11 @@
 const reverse = (arr) => {
+  /////000000000000///
   let start = 0,
-    end = arr.length-1;
+    end = arr.length - 1;
 
-  while (start <end) {
+  if (arr.length > 1) throw console.error("arr length min 2");
+
+  while (start < end) {
     [arr[start], arr[end]] = [arr[end], arr[start]];
     start++;
     end--;
