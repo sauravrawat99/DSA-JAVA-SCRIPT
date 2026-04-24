@@ -12,4 +12,21 @@ const findTwosum = (arr, targer) => {
   return "not found";
 };
 
-console.log(findTwosum([9, 7, 8, 6, 2, 3, 5, 6], 20));
+// console.log(findTwosum([9, 7, 8, 6, 2, 3, 5, 6], 20));
+
+const twoSum = function (nums, target) {
+  const map = new Map(); 
+
+  for (let i = 0; i < nums.length; i++) {
+    let need = target - nums[i];
+
+    if (map.has(need)) {
+      return [map.get(need), i];
+    }
+
+    // current value store karo
+    map.set(nums[i], i);
+  }
+};
+
+console.log(twoSum([9, 7, 8, 6, 2, 3, 5, 6],8));
