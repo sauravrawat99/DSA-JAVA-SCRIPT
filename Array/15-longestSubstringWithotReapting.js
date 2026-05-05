@@ -1,3 +1,4 @@
+// pattern varible size window
 function lengthOfLongestSubstring(s) {
   // Step 1: Map aur variables banao
   const map = new Map();
