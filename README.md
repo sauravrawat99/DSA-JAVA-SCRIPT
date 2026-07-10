@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0027-remove-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
@@ -48,5 +49,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0027-remove-element/) | Easy |
 | [0344-reverse-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
