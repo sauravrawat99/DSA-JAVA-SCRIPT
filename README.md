@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
