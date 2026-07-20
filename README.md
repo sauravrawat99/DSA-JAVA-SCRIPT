@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
