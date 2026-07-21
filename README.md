@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -91,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
