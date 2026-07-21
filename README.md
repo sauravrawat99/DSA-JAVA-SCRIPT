@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@
 | [0027-remove-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0344-reverse-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
