@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@
 | [0169-majority-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0414-third-maximum-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
