@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
