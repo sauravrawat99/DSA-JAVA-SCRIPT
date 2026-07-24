@@ -24,6 +24,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0724-find-pivot-index/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
