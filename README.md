@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +120,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
