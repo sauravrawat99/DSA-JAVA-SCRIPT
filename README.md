@@ -29,6 +29,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0344-reverse-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0344-reverse-string/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,5 @@
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
