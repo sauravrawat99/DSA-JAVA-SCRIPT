@@ -30,6 +30,7 @@
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
