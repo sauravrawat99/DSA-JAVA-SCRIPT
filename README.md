@@ -48,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
