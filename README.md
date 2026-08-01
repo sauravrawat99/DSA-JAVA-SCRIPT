@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
@@ -58,6 +59,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -127,6 +130,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
