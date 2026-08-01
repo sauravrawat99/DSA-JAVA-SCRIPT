@@ -41,6 +41,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
@@ -54,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0383-ransom-note/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0383-ransom-note/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
