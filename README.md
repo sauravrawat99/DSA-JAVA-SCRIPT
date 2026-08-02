@@ -60,6 +60,7 @@
 | [0383-ransom-note](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | [0283-move-zeroes](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
