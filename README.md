@@ -44,6 +44,7 @@
 | [0383-ransom-note](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
+| [0409-longest-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
@@ -61,6 +62,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
+| [0409-longest-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0409-longest-palindrome/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -160,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
