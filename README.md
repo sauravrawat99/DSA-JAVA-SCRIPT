@@ -63,6 +63,7 @@
 | [0389-find-the-difference](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0409-longest-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@
 | [0066-plus-one](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
