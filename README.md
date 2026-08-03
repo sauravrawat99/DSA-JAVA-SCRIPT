@@ -65,6 +65,7 @@
 | [0409-longest-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -166,8 +167,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0409-longest-palindrome/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
