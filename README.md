@@ -64,6 +64,7 @@
 | [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
