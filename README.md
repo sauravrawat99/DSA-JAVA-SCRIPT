@@ -66,6 +66,7 @@
 | [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0520-detect-capital](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0520-detect-capital/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
