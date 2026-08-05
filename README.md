@@ -68,6 +68,7 @@
 | [0459-repeated-substring-pattern](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0541-reverse-string-ii/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0541-reverse-string-ii/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
