@@ -69,6 +69,7 @@
 | [0520-detect-capital](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
