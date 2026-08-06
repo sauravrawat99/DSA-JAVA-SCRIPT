@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0088-merge-sorted-array/) | Easy |
@@ -163,6 +164,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
