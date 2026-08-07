@@ -74,6 +74,7 @@
 | [0657-robot-return-to-origin](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
