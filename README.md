@@ -72,6 +72,7 @@
 | [0541-reverse-string-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0709-to-lower-case](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0709-to-lower-case/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
