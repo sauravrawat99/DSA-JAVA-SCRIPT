@@ -32,6 +32,7 @@
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@
 | [1108-defanging-an-ip-address](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
