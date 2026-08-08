@@ -28,6 +28,7 @@
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0724-find-pivot-index/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -175,6 +176,7 @@
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,4 +207,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
