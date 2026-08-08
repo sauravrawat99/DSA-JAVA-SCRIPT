@@ -145,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
@@ -170,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -197,4 +199,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
