@@ -26,6 +26,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
+| [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -173,6 +174,7 @@
 | [0035-search-insert-position](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
