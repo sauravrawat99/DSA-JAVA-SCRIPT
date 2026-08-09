@@ -31,6 +31,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -177,6 +178,7 @@
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
