@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0136-single-number/) | Easy |
+| [0162-find-peak-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
@@ -175,6 +176,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
