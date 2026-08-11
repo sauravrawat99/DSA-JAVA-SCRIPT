@@ -178,6 +178,7 @@
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -215,4 +216,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
