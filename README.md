@@ -152,6 +152,7 @@
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@
 | [0162-find-peak-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
