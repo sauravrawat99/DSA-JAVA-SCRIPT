@@ -91,11 +91,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
