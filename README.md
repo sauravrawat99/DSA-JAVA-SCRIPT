@@ -36,6 +36,7 @@
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 ## Hash Table
@@ -107,6 +108,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@
 | [1920-build-array-from-permutation](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
