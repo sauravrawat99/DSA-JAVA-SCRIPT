@@ -27,6 +27,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -96,6 +97,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
