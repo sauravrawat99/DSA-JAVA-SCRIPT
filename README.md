@@ -143,6 +143,7 @@
 | [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -235,4 +236,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
