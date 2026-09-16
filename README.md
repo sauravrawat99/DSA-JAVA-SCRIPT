@@ -98,6 +98,7 @@
 | [0155-min-stack](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Design
@@ -143,6 +144,7 @@
 | [0141-linked-list-cycle](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -253,6 +255,7 @@
 | [0141-linked-list-cycle](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -264,4 +267,5 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
