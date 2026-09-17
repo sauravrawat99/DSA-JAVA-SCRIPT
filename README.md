@@ -47,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -143,6 +144,7 @@
 | [0125-valid-palindrome](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0283-move-zeroes/) | Easy |
@@ -254,6 +256,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0876-middle-of-the-linked-list/) | Easy |
