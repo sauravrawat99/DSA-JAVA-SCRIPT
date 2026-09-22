@@ -260,6 +260,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -273,4 +274,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
