@@ -168,6 +168,7 @@
 | [0070-climbing-stairs](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0415-add-strings/) | Easy |
+| [0509-fibonacci-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +278,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0509-fibonacci-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,4 +291,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
