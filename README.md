@@ -165,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0392-is-subsequence/) | Easy |
 ## Math
@@ -172,6 +173,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0367-valid-perfect-square/) | Easy |
@@ -282,4 +284,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
