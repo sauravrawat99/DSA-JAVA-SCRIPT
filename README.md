@@ -172,6 +172,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0070-climbing-stairs/) | Easy |
@@ -276,6 +277,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0509-fibonacci-number/) | Easy |
