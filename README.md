@@ -285,6 +285,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -295,4 +296,16 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0509-fibonacci-number/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sauravrawat99/DSA-JAVA-SCRIPT/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
